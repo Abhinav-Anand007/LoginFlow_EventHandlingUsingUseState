@@ -1,0 +1,45 @@
+body {
+  background-color: #088b8b;
+}
+
+.full {
+  /* border: 2px solid black; */
+  width: 100%;
+  text-align: center;
+  margin-top: 12rem;
+}
+
+.greet {
+  font-family: "Poppins", sans-serif;
+  margin-bottom: 1.5rem;
+  color: white;
+  font-weight: 200;
+}
+.login {
+  /* border: 2px solid black; */
+}
+
+.inputField {
+  background-color: rgba(255, 255, 255, 0.3);
+  border: 1px solid white;
+  display: block;
+  margin-bottom: 1rem;
+  margin-left: 33.8rem;
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  flex: 0 0 20%;
+  font-size: 1rem;
+  border-radius: 0.2rem;
+  padding: 0.3rem;
+}
+
+.button {
+  background-color: white;
+  height: 2.4rem;
+  width: 13rem;
+  color: #088b8b;
+  font-family: "Poppins", sans-serif;
+  font-size: 1rem;
+  display: block;
+  margin-left: 33.8rem;
+}
